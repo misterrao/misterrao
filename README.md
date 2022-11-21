@@ -9,9 +9,9 @@ Well, I’ve been working on mobile app development for four years now, while st
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Portfolio](https://misterrao.github.io/)
 * ✉️  You can contact me at [justcallmerao2719091@gmail.com](mailto:justcallmerao2719091@gmail.com)
-* 🚀  I'm currently working on Blockchain and Refactoring Code
+* 🚀  I'm currently Focusing on HTML and CSS based Modules
 * 🧠  I'm learning Blockchain, Web3.0, NodeJS, Python, Refactoring code
-* 🤝  I'm open to collaborating on Backend / Blockchain projects
+* 🤝  I'm open to collaborating on Frontend / Blockchain projects
 * ⚡  I'm good at Communication as Well
 
 ### Skills
