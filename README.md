@@ -14,7 +14,7 @@ I Have my own projects, coded mostly in AngularJS, Apart from coding, I enjoy pl
 ### Skills
 
 <p align="left">
-<a href="https://e7.pngegg.com/pngimages/526/279/png-clipart-logo-cyberpower-smart-app-sinewave-pr1500lcd-cyberpower-csb6012-surge-protector-6-outlets-12-ft-cord-1200-joules-design-ups-design-angle-text-thumbnail.png" width="36" height="36" alt="AngularJS" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://angular.io/" width="36" height="36" alt="AngularJS" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.freepnglogos.com/uploads/javascript-png/png-javascript-badge-picture-8.png" width="36" height="36" alt="Javascript" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" width="36" height="36" alt="HTML" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="36" height="36" alt="CSS" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -25,8 +25,8 @@ I Have my own projects, coded mostly in AngularJS, Apart from coding, I enjoy pl
 ### Socials
 
 <p align="left">
-<a href="https://github.com/JVenkateshRao" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="http://www.instagram.com/_venky27_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://github.com/JVenkateshRao" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="www.linkedin.com/in/jvenkateshrao" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
