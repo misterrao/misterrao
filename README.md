@@ -15,11 +15,4 @@ I Have my own projects, coded mostly in AngularJS, Apart from coding, I enjoy pl
 
 ### Socials
 
-        <a href="tel:+917004500519" class="telephone"><i class="bi bi-telephone"></i></a>
-        <a href="https://wa.me/917004500519" class="whatsapp"><i class="bi bi-whatsapp"></i></a>
-        <a href="https://www.linkedin.com/in/jvenkateshrao" class="linkedin"><i class="bi bi-linkedin"></i></a>
-        <a href="https://github.com/JVenkateshRao" class="github"><i class="bi bi-github"></i></a>
-        <a href="https://www.instagram.com/_venky27_/" class="instagram"><i class="bi bi-instagram"></i></a>
-        <a href="https://t.snapchat.com/uSSrozt7" class="snapchat"><i class="bi bi-snapchat"></i></a>
-        <a href="mailto:1132220092@mitwpu.edu.in" class="envelope"><i class="bi bi-envelope"></i></a>
 
